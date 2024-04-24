@@ -1,0 +1,67 @@
+.intro-text{
+    background-color: white;
+}
+.btn-xl{
+    background-color: bisque !important;
+}
+.py-lg-4{
+    background-color: bisque !important;
+    color: bisque !important;
+}
+.text-uppercase{
+    color: black !important;
+}
+.text-primary{
+    color: white !important;
+}
+.cta{
+    background-color: bisque;
+}
+.py-5{
+    background-color: white !important;
+    color: black !important;
+}
+/*div styles*/
+.common{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    background-color: antiquewhite;
+}
+.tippytop{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: left
+}
+.top{
+    top: 18px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+}
+.middle{
+    top: 680px;
+    left: 0px;
+    right: 0px;
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    text-align: center;
+    background-color: aliceblue;
+    font-style: italic;
+    font-weight: bold;
+}
+.imgcenter{
+    border: 5px solid lightblue;
+    margin: 0px;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: midnightblue;
+}
